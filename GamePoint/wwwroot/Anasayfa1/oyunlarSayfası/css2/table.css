@@ -1,0 +1,9 @@
+table{
+    width:900px;
+    margin:0px auto;
+}
+thead{
+    background-color: #ff9800;
+    line-height: 50px;
+    text-align: center;
+}
